@@ -55,35 +55,37 @@ To run this project, you'll need the following dependencies:
 - Required Python packages (listed in `requirements.txt`)
 - Power BI Desktop for visualization
 
-Project Workflow
+## Project Workflow
+
 Note: This project is developed for educational purposes and to showcase data analysis and visualization skills. The Airbnb data used is sample data, and all analyses and visualizations are based on this sample data.
 
 The project workflow is structured into the following key steps:
 
-MongoDB Connection and Data Retrieval: Establish a connection to MongoDB Atlas and retrieve the Airbnb dataset efficiently.
+**MongoDB Connection and Data Retrieval:** Establish a connection to MongoDB Atlas and retrieve the Airbnb dataset efficiently.
 
-Data Cleaning and Preparation: Clean and prepare the dataset, addressing issues like missing values, duplicates, and data type conversions for accurate analysis.
+**Data Cleaning and Preparation:** Clean and prepare the dataset, addressing issues like missing values, duplicates, and data type conversions for accurate analysis.
 
-Price Analysis and Visualization: Analyze and visualize pricing variations based on location and property type using Power BI.
+**Price Analysis and Visualization:** Analyze and visualize pricing variations based on location and property type using Power BI.
 
-Availability Analysis: Investigate availability patterns and occupancy rates and visualize demand fluctuations using Power BI.
+**Availability Analysis:** Investigate availability patterns and occupancy rates and visualize demand fluctuations using Power BI.
 
-Location-Based Insights: Extract and visualize data for specific regions or neighborhoods, enabling users to understand location-based trends with Power BI.
+**Location-Based Insights:** Extract and visualize data for specific regions or neighborhoods, enabling users to understand location-based trends with Power BI.
 
-View the Power BI Report
+## View the Power BI Report
 Explore the interactive Power BI report to see the visualizations and insights from this project:
 
-<iframe title="airbnb-raghavendran" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=27833b89-371c-4d7f-8512-4822ba862acd&autoAuth=true&ctid=9f44f2ce-8cae-46bf-930b-0337df8b3945" frameborder="0" allowFullScreen="true"></iframe>
+                         ** [View PowerBI Report]**(https://app.fabric.microsoft.com/reportEmbed?reportId=27833b89-371c-4d7f-8512-4822ba862acd&autoAuth=true&ctid=9f44f2ce-8cae-46bf-930b-0337df8b3945)
 
-Contributing
+
+## Contributing
 Contributions and feedback are welcome! If you'd like to contribute to this project, please follow our Contributing Guidelines.
 
-Project Author,
+## Project Author,
 Raghavendran S
 Aspiring Data Scientist
 
-Powerbi Report: https://app.fabric.microsoft.com/reportEmbed?reportId=27833b89-371c-4d7f-8512-4822ba862acd&autoAuth=true&ctid=9f44f2ce-8cae-46bf-930b-0337df8b3945
 
-LinkedIn Profile: [Raghavendran Sundararajan](https://www.linkedin.com/in/raghavendransundararajan/)
+
+**LinkedIn Profile:** [Raghavendran Sundararajan](https://www.linkedin.com/in/raghavendransundararajan/)
 
 Happy Analyzing!
