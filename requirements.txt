@@ -1,0 +1,5 @@
+pymongo
+mongodbatlas
+pandas
+numpy
+powerbi
