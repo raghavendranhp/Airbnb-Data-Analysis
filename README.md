@@ -1,4 +1,4 @@
-# Airbnb Analysis Project
+# Airbnb Data Analysis Project
 
 Welcome to the Airbnb Analysis project! This project focuses on analyzing Airbnb data to gain valuable insights into pricing variations, availability patterns, and location-based trends in the travel and property management domain. We use MongoDB Atlas, Python scripting, data preprocessing, and Power BI for data visualization to explore the data.
 
