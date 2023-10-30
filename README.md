@@ -73,7 +73,7 @@ The project workflow is structured into the following key steps:
 
 ## View the Power BI Report
 Explore the interactive Power BI report to see the visualizations and insights from this project:
-                                      [View PowerBI Report](https://app.fabric.microsoft.com/reportEmbed?reportId=27833b89-371c-4d7f-8512-4822ba862acd&autoAuth=true&ctid=9f44f2ce-8cae-46bf-930b-0337df8b3945)
+                                      [View PowerBI Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiYTc3ZGEwZDAtMTJhOS00YWU1LWI0MzgtNDUzMGMxNzk3NmViIiwidCI6IjlmNDRmMmNlLThjYWUtNDZiZi05MzBiLTAzMzdkZjhiMzk0NSJ9&pageName=ReportSectione7867f971a5cece3e031)
 
 
 ## Contributing
