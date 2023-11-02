@@ -34,7 +34,7 @@ We aim to maintain high-quality code and documentation for this project. The eva
 - A public GitHub repository for version control and collaboration.
 - A comprehensive README file explaining the project workflow.
 - Adherence to Python coding standards (PEP 8).
-- A demo video posted on LinkedIn showcasing the working model.
+
 
 ## Getting Started
 
